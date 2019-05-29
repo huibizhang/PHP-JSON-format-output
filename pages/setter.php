@@ -1,7 +1,7 @@
 <?php
 	$p = $_GET;
 
-	$result_arr["status"]=false;
+	$result_arr["status"]=false; //預設輸出狀態為 false
 	
 	if($p["appkey"]=="your-app-key"){
 		
