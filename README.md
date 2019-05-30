@@ -1,2 +1,2 @@
-# PHP-JSON-output-format
-PHP JSON output format
+# PHP-JSON format-output
+PHP JSON format-output
