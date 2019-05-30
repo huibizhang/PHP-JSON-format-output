@@ -9,3 +9,5 @@
 　　而因為前陣子五月初時去比賽，久違的又寫起了PHP、以及最近在教一些學生做專題時也有用到，所以重新審視一下以前寫的一些專案和網頁，有了點感觸。
 
 　　我專案的做法大多都是用PHP將資料庫輸出為JSON格式，方便網頁以AJAX或是APP的HttpRequest取用，所以無論是對資料庫的查詢、新增、修改還是刪除，都靠PHP執行後並回傳結果。執行畫面例如：
+
+![](https://1.bp.blogspot.com/-fX2ts3d7Ixk/XO5d7MLOj9I/AAAAAAAACx8/LM1z19CZqH8Ir62yrGZb46HkscIZT03qACLcBGAs/s400/Pic_072.png)
